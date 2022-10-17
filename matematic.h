@@ -24,6 +24,7 @@ public:
         return a*b;
     }
 
+    // оформление. Одна строка - одна функция ...
     int sum (int z,int x); long sum (long z, long x); double sum (double z, double x);
     int mult (int z,int x); long mult (long z, long x); double mult (double z, double x);
     int sub (int z,int x); long sub (long z, long x); double sub (double z, double x);
